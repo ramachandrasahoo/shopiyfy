@@ -49,7 +49,7 @@ body {
   font-size: 1.2vw;
   position: absolute;
   top: 22%;
-  right: 6%;
+  right: 4%;
 }
 #nav h1::before {
   content: "model managment";
